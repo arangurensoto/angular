@@ -1,0 +1,19 @@
+{
+  "name": "angular",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arangurensoto/angular.git"
+  },
+  "author": "Javier Aranguren",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arangurensoto/angular/issues"
+  },
+  "homepage": "https://github.com/arangurensoto/angular#readme"
+}
